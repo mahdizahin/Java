@@ -1,4 +1,4 @@
-package Ps1;
+ 
 
 public class Rectangle extends Shape{
 	
