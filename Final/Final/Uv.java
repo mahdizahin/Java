@@ -4,7 +4,7 @@ public class Uv {
 
 	final String name;
 	
-	static final int num;
+	static final int num;  //final method k override kora jay na
 	
 	Uv(){
 		name="ZAHIN";
