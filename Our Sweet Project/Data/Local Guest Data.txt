@@ -1,0 +1,30 @@
+
+Data for Local X Check in
+Name : Mahdi
+Phone number : 777.0
+Passport Number : 345.0
+Home Town : 
+
+Data for Local X Check in
+Name : Nafiza Tushi
+Phone number : 111.0
+Passport Number : 222.0
+Home Town : 
+
+Local Data X Check in
+Name : Nafiza
+Phone number : 4344.0
+Passport Number : 222.0
+Home Town : Madaripur
+
+Local Data X Check Out
+Phone Number : 334.0
+
+Local Data X Check in
+Name : Mahdi Zahin
+Phone number : 456.0
+Passport Number : 2222.0
+Home Town : Planet X
+
+Local Data X Check Out
+Phone Number : 456.0

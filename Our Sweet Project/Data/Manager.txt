@@ -1,0 +1,10 @@
+ 
+Data for Manager 
+ID : 456789
+Name :Artimis
+Educational Background : HSC
+Salary :70000.0
+Nationality : Nepali
+Home Town : Annoponna Base camp
+
+ 
